@@ -1,2 +1,2 @@
-# Inter-service Communication with Go
- Inter-service Communication with Go, by BPB Publications
+# Inter-Service Communication with Go
+ Inter-Service Communication with Go, by BPB Publications
